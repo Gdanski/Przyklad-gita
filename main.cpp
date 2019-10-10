@@ -1,6 +1,9 @@
 #include <iostream>
-
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int liczba = 55;
+    int user_input;
+    cout << "Hello, World!";
+    cout << "Podaje liczbe";
     return 0;
 }
